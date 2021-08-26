@@ -1,0 +1,14 @@
+{
+  "name": "shopify-scripts-node",
+  "version": "1.0.0",
+  "description": "Add and remove scripit tags to your merchants Shopify stores via a single method call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shopify-api-node": "^3.7.1"
+  }
+}
